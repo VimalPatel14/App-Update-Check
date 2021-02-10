@@ -1,6 +1,6 @@
 # App-Update-Check
 
-Preview Image
+# Preview Images
 
 ![SC1](https://github.com/VimalPatel14/App-Update-Check/blob/master/sc2.jpg)
 
